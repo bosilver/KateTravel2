@@ -7,7 +7,7 @@ urlpatterns = patterns('',
     # url(r'^blog/', include('blog.urls')),
 
     url(r'^admin/', include(admin.site.urls)),
-    url(r'^/$', 'booking.views.activity_booking_page'),
+    url(r'^$', 'booking.views.activity_booking_page'),
     url(r'^get/activities/$', 'booking.views.get_activities'),
     url(r'^get/timetable/$', 'booking.views.get_time_table'),
     url(r'^get/activity/$', 'booking.views.get_activity'),
