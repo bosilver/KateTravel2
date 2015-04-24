@@ -12,6 +12,10 @@ body {
     font-family: Ubuntu, Arial, sans-serif;
 }
 
+.container {
+    background: rgba(255,255,255,0.6);
+    border-radius: 7px;
+}
 /*.header {
     background-color: #fff;
     background: #fff url('http://djangogirlstaipei.github.io/assets/images/stripe.png') repeat-x;
