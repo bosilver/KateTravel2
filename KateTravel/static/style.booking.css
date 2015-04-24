@@ -1,0 +1,64 @@
+
+
+#p_detail label{
+    display: inline-block;
+    width: 100px;
+    text-align: right;
+}
+
+.error{
+    display: none;
+    margin-left: 10px;
+}
+
+.error_show{
+    color: red;
+    margin-left: 10px;
+}
+
+.table>tbody>tr>th {
+    text-align: center;
+    vertical-align:middle;
+}
+
+.table>tbody>tr>td {
+    vertical-align:middle;
+}
+
+.table .subject {
+    width: 360px;
+}
+
+.table-money {
+    text-align: right;
+    width: 80px;
+}
+
+.table-id-code {
+    width: 40px;
+}
+
+.table-date-time {
+    width: 100px;
+    text-align: center;
+    vertical-align:middle;
+}
+
+.money {
+    width: 60px;
+}
+.activity button {
+    width: 70px;
+    line-height: 5px;
+    position: relative;
+    right: 0px;
+}
+
+.activity #date {
+    line-height: 18px;
+    width: 140px;
+}
+
+.hide {
+    display: none;
+}

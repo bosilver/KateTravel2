@@ -1,0 +1,533 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fo",
+				"forms"
+			],
+			[
+				"r",
+				"render"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"date",
+				"datetime  (class)"
+			],
+			[
+				"da",
+				"datetime  (class)"
+			],
+			[
+				"HttpR",
+				"HttpResponse  (class)"
+			],
+			[
+				"req",
+				"requests"
+			],
+			[
+				"s",
+				"self"
+			],
+			[
+				"to",
+				"to_dict"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 27.0,
+		"selected_items":
+		[
+			[
+				"git:che",
+				"Git: Change Branch"
+			],
+			[
+				"git:log",
+				"Git: Log All"
+			],
+			[
+				"git hi",
+				"Git: Commit history"
+			],
+			[
+				"instl",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"INSTAL",
+				"Package Control: Install Package"
+			],
+			[
+				"INSTALL",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 435.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/sherry/Documents/program-project/djangogirls/mysite/templates/css/style.css",
+		"/Users/sherry/Documents/program-project/djangogirls/mysite/templates/static/style.css",
+		"/Users/sherry/Documents/program-project/djangogirls/mysite/trips/models.py",
+		"/Users/sherry/Documents/program-project/djangogirls/mysite/mysite/settings.py",
+		"/Users/sherry/Documents/program-project/djangogirls/mysite/templates/hello_world.html",
+		"/Users/sherry/Documents/program-project/djangogirls/mysite/trips/views.py",
+		"/Users/sherry/Documents/program-project/djangogirls/mysite/mysite/urls.py",
+		"/Users/sherry/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/sherry/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/sherry/Documents/Pyladies-data/pyLadies-atomac/hello.py",
+		"/Users/sherry/Documents/Windows Backup/work/owncloud/apps/files_texteditor/js/aceeditor/mode-matlab.js",
+		"/Users/sherry/Desktop/wfb_test1_abcd.py",
+		"/Users/sherry/Desktop/aaa.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/python-keystoneclient/keystoneclient/tests/v2_0/fakes.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/nova/nova/tests/test_cinder.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/python-keystoneclient/keystoneclient/session.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/cap-openstack-ceilometer/ceilometer/api/controllers/v2.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/neutron/neutron/plugins/cisco/n1kv/n1kv_client.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/cinder/cinder/api/contrib/types_manage.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/cinder/cinder/tests/api/openstack/test_wsgi.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/cinder/cinder/tests/api/contrib/test_volume_type_encryption.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/neutron/neutron/plugins/ml2/drivers/type_vxlan.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/neutron/neutron/plugins/ml2/drivers/type_tunnel.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/neutron/neutron/plugins/ml2/drivers/type_gre.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/keystone/keystone/catalog/controllers.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/python-neutronclient/neutronclient/v2_0/client.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/python-novaclient/novaclient/client.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/nova/nova/tests/test_hooks.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/nova/nova/cmd/baremetal_deploy_helper.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/neutron/neutron/plugins/nec/common/ofc_client.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/keystone/keystone/tests/test_v3.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/keystone/keystone/tests/core.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/horizon/openstack_dashboard/test/helpers.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/horizon/openstack_dashboard/dashboards/project/vpn/views.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/horizon/openstack_dashboard/dashboards/project/volumes/views.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/horizon/openstack_dashboard/dashboards/project/loadbalancers/views.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/horizon/openstack_dashboard/dashboards/project/firewalls/views.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/horizon/horizon/workflows/views.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/horizon/horizon/test/helpers.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/horizon/horizon/tabs/views.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/horizon/horizon/tables/views.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/neutron/neutron/tests/unit/nicira/fake_nvpapiclient.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/neutron/neutron/tests/unit/test_db_plugin.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/horizon/openstack_dashboard/api/neutron.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/nova/nova/tests/compute/test_stats.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/nova/nova/openstack/common/rpc/securemessage.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/nova/nova/compute/stats.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/cinder/cinder/api/contrib/admin_actions.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/python-keystoneclient/keystoneclient/v3/client.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/python-keystoneclient/keystoneclient/common/cms.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/keystone/keystone/common/cms.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/keyston/keystone/common/ldap/core.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/keyston/keystone/identity/backends/ldap.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/nova/nova/service.py",
+		"/Users/sherry/Desktop/sherry/ntu.ovpn",
+		"/Users/sherry/Documents/work/OpenStack/workspace/cinder/cinder/tests/test_vmware_vmdk.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/cinder/cinder/manager.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/keyston/keystone/token/provider.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/python-keystoneclient/keystoneclient/client.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/python-keystoneclient/keystoneclient/discover.py",
+		"/Users/sherry/Desktop/QRI-CSRC.tblk/config.ovpn",
+		"/Users/sherry/Documents/work/OpenStack/workspace/nova/nova/api/openstack/compute/extensions.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/lazystack/files/keystone/keystone.conf",
+		"/Users/sherry/Documents/work/OpenStack/workspace/horizon/openstack_dashboard/api/trove.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/keyston/keystone/identity/backends/kvs.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/keyston/keystone/auth/plugins/external.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/cap-openstack-ceilometer/ceilometer/storage/__init__.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/keyston/keystone/common/kvs.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/keyston/keystone/tests/test_v3.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/keyston/keystone/tests/test_cache.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/keyston/keystone/tests/test_backend_memcache.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/keyston/keystone/tests/core.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/python-keystoneclient/keystoneclient/v2_0/ec2.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/python-novaclient/novaclient/v1_1/keypairs.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/cap-openstack-ceilometer/ceilometer/api/v1/static/jquery-1.8.3.js",
+		"/Users/sherry/Documents/work/OpenStack/workspace/keyston/keystone/assignment/backends/kvs.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/cinder/cinder/brick/initiator/connector.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/nova/nova/utils.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/nova/nova/virt/libvirt/volume.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/keyston/keystone/cli.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/keyston/keystone/token/providers/pki.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/keyston/keystone/token/core.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/keyston/etc/keystone.conf.sample",
+		"/Users/sherry/Documents/work/OpenStack/workspace/keyston/keystone/identity/core.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/keyston/keystone/common/openssl.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/keyston/keystone/token/providers/uuid.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/nova/nova/api/auth.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/python-neutronclient/neutronclient/client.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/python-keystoneclient/keystoneclient/httpclient.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/python-keystoneclient/keystoneclient/access.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/neutron/neutron/context.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/neutron/neutron/tests/unit/test_wsgi.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/nova/nova/network/neutronv2/__init__.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/python-keystoneclient/keystoneclient/middleware/auth_token.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/python-keystoneclient/keystoneclient/utils.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/lazystack/lazyrc",
+		"/Users/sherry/Documents/work/OpenStack/workspace/lazystack/controller/40-cinder.sh",
+		"/Users/sherry/Documents/work/OpenStack/workspace/lazystack/controller/20-glance.sh",
+		"/Users/sherry/Documents/work/OpenStack/workspace/lazystack/controller/30-neutron.sh",
+		"/Users/sherry/Documents/work/OpenStack/workspace/lazystack/controller/50-nova.sh",
+		"/Users/sherry/Documents/work/OpenStack/workspace/keyston/keystone/token/controllers.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/python-novaclient/novaclient/v1_1/volumes.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/python-keystoneclient/keystoneclient/base.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/keyston/keystone/service.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/keyston/keystone/identity/routers.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/keyston/keystone/common/cms.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/lazystack/controller/10-keystone.sh",
+		"/Users/sherry/Documents/work/OpenStack/workspace/lazystack/compute/20-neutron.sh",
+		"/Users/sherry/Documents/work/OpenStack/workspace/lazystack/compute/30-nova.sh",
+		"/Users/sherry/Documents/work/OpenStack/workspace/lazystack/files/nova/nova.conf",
+		"/Users/sherry/Documents/work/OpenStack/workspace/lazystack/network/10-neutron.sh",
+		"/Users/sherry/Documents/work/OpenStack/workspace/keyston/keystone/identity/controllers.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/cap-openstack-ceilometer/ceilometer/tests/storage/test_impl_hbase.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/cap-openstack-ceilometer/ceilometer/storage/impl_sqlalchemy.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/cap-openstack-ceilometer/ceilometer/storage/impl_mongodb.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/cap-openstack-ceilometer/ceilometer/storage/impl_log.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/cap-openstack-ceilometer/ceilometer/storage/impl_hbase.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/cap-openstack-ceilometer/ceilometer/storage/impl_db2.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/cap-openstack-ceilometer/ceilometer/storage/base.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/nova/nova/network/ldapdns.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/keyston/keystone/tests/legacy_d5.mysql",
+		"/Users/sherry/Documents/work/OpenStack/workspace/neutron/neutron/plugins/nicira/vshield/vcns.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/neutron/neutron/plugins/nicira/nvplib.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/python-novaclient/novaclient/auth_plugin.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/python-keystoneclient/keystoneclient/v2_0/tokens.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/keyston/keystone/auth/plugins/password.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/keyston/keystone/tests/test_content_types.py",
+		"/Users/sherry/Documents/work/OpenStack/workspace/keyston/keystone/tests/test_catalog.py"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"}}\n",
+			"map-canvas",
+			".map",
+			"text-center",
+			"site-title text-center",
+			"site-title",
+			"site-title ",
+			"site-title text-center",
+			"map",
+			"./../",
+			"STA",
+			"pass",
+			"staticfiles",
+			"STATIC_ROOT",
+			"SECURE_PROXY_SSL_HEADER",
+			"tab",
+			"TEMPLATE_",
+			"auth_url",
+			"_get_endpoint_url",
+			"get_urls",
+			"url_for",
+			"publicURL",
+			"public_url",
+			"_get_endpoint_url",
+			"public_url",
+			"certfile",
+			"signing.certfile",
+			"keystone/",
+			"enabled_ssl_apis",
+			"ssl",
+			"enabled_ssl_apis",
+			"HTTP Unable to establish connection",
+			"adminurl",
+			"admin_url",
+			"management_url",
+			"HTTPClient",
+			"get_raw_token_from_identity_service",
+			"Unable to authorize user",
+			"LDAP_USE_TLS",
+			"ldap",
+			"service_pass",
+			"ldap",
+			"_ldap_get_all",
+			"LdapWrapper",
+			"LDAP_TLS_CERTS",
+			"self.conn.start_tls_s",
+			"Can't contact",
+			"Can't contact %s server",
+			"Can't contact LDAP server",
+			"ldap",
+			"use_tls",
+			"deploy_nova_key",
+			"do_request",
+			"_cs_request",
+			"auth_token",
+			"token",
+			"expires",
+			"authenticate",
+			"get_raw_token_from_identity_service",
+			"_get_token_id",
+			"auth_token",
+			"python-keystone",
+			"authenticate",
+			"endpoint",
+			"authenticate",
+			"_cache_put",
+			"LDAP_USER",
+			"iniset",
+			"_cache_put",
+			"_cache_store",
+			"authenticate",
+			"NovaKeystoneContext",
+			"nova/",
+			"authtoken",
+			"tokens",
+			"public_app_factory",
+			"CrudExtension",
+			"TokenAuthMiddleware",
+			"keystone/",
+			"authenticate",
+			"keystone/keystone",
+			"keystone",
+			"authenticate",
+			"token_provider_api",
+			"token.provider",
+			"PKI_PROVIDER",
+			"get_token_provider",
+			"token_api",
+			"_get_token_id",
+			"verify_token",
+			"cms_verify",
+			"enabled",
+			"options_name",
+			"EnabledEmuMixIn",
+			"enabled",
+			"user_enabled_emulation",
+			"ldap.user",
+			"LDAP_USER",
+			"simple_bind_s",
+			"get_connection",
+			"LDAP_PASSWORD",
+			"description",
+			"notification_driver",
+			"_get_token_id",
+			"cms_sign_token",
+			"cms_to_token",
+			"cms",
+			"verify_token",
+			"cms_verify",
+			"validate_token",
+			"verify_token",
+			"cms_verify",
+			"openssl",
+			"ConfigurePKI",
+			"build_ssl_config_file",
+			"PKISetup",
+			"ConfigurePKI",
+			"BaseCertificateConfigure",
+			"openssl",
+			"ssl",
+			"_with_flavor_and_image",
+			"_with_image",
+			"disconnect_volume",
+			"def volume_driver_method",
+			"volume_driver_method",
+			"connect_volume",
+			"ISCSI volume not yet found at",
+			"volume_driver_method"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "excel_reader.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"ldap.py",
+				"keyston/keystone/identity/backends/ldap.py"
+			],
+			[
+				"login",
+				"horizon/horizon/templates/auth/login.html"
+			],
+			[
+				"policy",
+				"nova/nova/policy.py"
+			],
+			[
+				"horizon/ex",
+				"horizon/horizon/exceptions.py"
+			],
+			[
+				"sqlalchemy/api.",
+				"nova/nova/db/sqlalchemy/api.py"
+			],
+			[
+				"agents_db",
+				"neutron/neutron/db/agents_db.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"list_users",
+				"list_users"
+			],
+			[
+				"shutdown",
+				"_shutdown_instance"
+			],
+			[
+				"admin_app_factory",
+				"admin_app_factory"
+			],
+			[
+				"logout",
+				"login_out"
+			],
+			[
+				"login",
+				"_login"
+			],
+			[
+				"",
+				"AccessIPTemplate"
+			],
+			[
+				"r",
+				"RBDDriver"
+			]
+		],
+		"width": 588.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 196.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

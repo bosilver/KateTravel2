@@ -1,0 +1,21 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    /*background-color: #fbf9f4;
+    color: #004057;*/
+    padding-top: 70px;
+    background: url('pic/P1030860.JPG') no-repeat fixed;
+    background-size: 100% auto;
+    font-family: Ubuntu, Arial, sans-serif;
+}
+
+/*.header {
+    background-color: #fff;
+    background: #fff url('http://djangogirlstaipei.github.io/assets/images/stripe.png') repeat-x;
+    margin-bottom: 40px;
+    padding: 20px 0;
+    position: relative;
+}*/
